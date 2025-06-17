@@ -8,8 +8,8 @@
   
   const socialItems = $state([
     { label: 'logos:spotify-icon', href: 'https://open.spotify.com/artist/2k1ZcJQm3HbgMqNOC9VOpG?si=7GDRnVesSySdWEtx_iKq3Q', color: '#1DB954' },
-    { label: 'skill-icons:instagram', href: '/instagram', color: '#E1306C' },
-    { label: 'line-md:twitter-x', href: '/twitter', color: '#000000' },
+    { label: 'skill-icons:instagram', href: 'https://www.instagram.com/boyxofficial/', color: '#E1306C' },
+    { label: 'line-md:twitter-x', href: 'https://x.com/programmer_dex', color: '#000000' },
     { label: 'simple-icons:audiomack', href: 'https://audiomack.com/boyxofficial', color: '#FFA200' },
     { label: 'simple-icons:facebook', href: 'https://web.facebook.com/Dextobi/', color: '#1877F3' },
     { label: 'simple-icons:youtube', href: 'https://www.youtube.com/@theboyxofficial', color: '#FF0000' },
